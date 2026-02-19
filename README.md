@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20%7C%20Indie%20Developer%20%7C%20Digital%20Nomad&descAlignY=52&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Muhammet%20ARSLANTAS&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20%7C%20Indie%20Developer%20%7C%20Digital%20Nomad&descAlignY=52&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+apps+that+generate+revenue+%F0%9F%9A%80;From+anywhere+in+the+world+%F0%9F%8C%8D;React+Native+%7C+Expo+%7C+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+apps+that+generate+revenue+%F0%9F%9A%80;From+anywhere+in+the+world+%F0%9F%8C%8D;React+Native+%7C+Expo+%7C+Next.js)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,13 +19,13 @@
 </div>
 
 ```typescript
-const muhammed = {
-  experience : "6 years React Native & Expo",
-  lifestyle  : "Working remotely, traveling the world 🌏",
-  freelancing: "$14,000 / month 💼",
+const muhammet = {
+  experience  : "6 years React Native & Expo",
+  lifestyle   : "Working remotely, traveling the world 🌏",
+  freelancing : "$14,000 / month 💼",
   apps_revenue: "$4,000 / month 📱",
-  goal       : "$100,000 / month 🎯",
-  status     : "Building. Shipping. Scaling.",
+  goal        : "$100,000 / month 🎯",
+  status      : "Building. Shipping. Scaling.",
 };
 ```
 
@@ -37,14 +37,14 @@ const muhammed = {
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=F5A623)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=F5A623)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Stripe](https://img.shields.io/badge/Stripe-1a1a1a?style=for-the-badge&logo=stripe&logoColor=F5A623)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-F50057?style=for-the-badge&logo=revenuecat&logoColor=white)
 
 </div>
@@ -55,14 +55,14 @@ const muhammed = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammed58&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammed58&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed58&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117&title_color=F5A623"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed58&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed58&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" alt="GitHub Streak"/>
 
 </div>
 
@@ -96,7 +96,6 @@ const muhammed = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
-
