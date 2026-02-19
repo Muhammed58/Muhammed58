@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Muhammet%20ARSLANTAS&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20%7C%20Indie%20Developer%20%7C%20Digital%20Nomad&descAlignY=52&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12&height=180&section=header&text=Muhammet%20ARSLANTAS&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20%7C%20Indie%20Developer%20%7C%20Digital%20Nomad&descAlignY=52&descSize=16" width="100%"/>
 
 </div>
 
@@ -68,17 +68,29 @@ const muhammet = {
 
 ---
 
-## 💰 Revenue Journey
+## 💰 Revenue Journey — Road to $100k/month
+
+```
+  Freelancing  ████████████████████████████░░░░░░░░░░░░  $14,000/m ✅
+  App Revenue  ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   $4,000/m ✅
+  ─────────────────────────────────────────────────────────────────
+  Total MRR    ████████████████████████████████░░░░░░░░  $18,000/m
+  ─────────────────────────────────────────────────────────────────
+  Goal         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ $100,000/m 🎯
+
+  Progress [$18k / $100k] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ■■■■■■■■■■■■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□  18%
+```
 
 <div align="center">
 
-| Milestone | Status |
-|-----------|--------|
-| $1,000 / month | ✅ Achieved |
-| $5,000 / month | ✅ Achieved |
-| $14,000 / month freelancing | ✅ Achieved |
-| $4,000 / month from apps | ✅ Achieved |
-| **$100,000 / month** | 🎯 In Progress... |
+| Milestone | Amount | Status |
+|-----------|--------|--------|
+| First $1k/month | $1,000 | ✅ |
+| Crossed $5k/month | $5,000 | ✅ |
+| Freelancing peak | $14,000 | ✅ |
+| App passive income | $4,000 | ✅ |
+| **The Goal** | **$100,000** | 🎯 18% there |
 
 </div>
 
@@ -96,6 +108,6 @@ const muhammet = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12&height=100&section=footer" width="100%"/>
 
 </div>
