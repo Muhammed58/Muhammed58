@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12&height=180&section=header&text=Muhammet%20ARSLANTAS&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20%7C%20Indie%20Developer%20%7C%20Digital%20Nomad&descAlignY=52&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A26351&height=180&section=header&text=Muhammet%20ARSLANTAS&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=React%20Native%20%7C%20Indie%20Developer%20%7C%20Digital%20Nomad&descAlignY=52&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+apps+that+generate+revenue+%F0%9F%9A%80;From+anywhere+in+the+world+%F0%9F%8C%8D;React+Native+%7C+Expo+%7C+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A26351&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+apps+that+generate+revenue+%F0%9F%9A%80;From+anywhere+in+the+world+%F0%9F%8C%8D;React+Native+%7C+Expo+%7C+Next.js)](https://git.io/typing-svg)
 
 </div>
 
@@ -108,6 +108,6 @@ const muhammet = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A26351&height=100&section=footer" width="100%"/>
 
 </div>
