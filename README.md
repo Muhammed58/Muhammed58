@@ -31,37 +31,17 @@ const muhammet = {
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Stripe](https://img.shields.io/badge/Stripe-20232A?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-20232A?style=for-the-badge&logo=revenuecat&logoColor=F50057)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Muhammed58&theme=dark&hide_border=true&background=0D1117&ring=A26351&fire=A26351&currStreakLabel=A26351" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed58&theme=react-dark&hide_border=true&bg_color=0D1117&color=A26351&line=A26351&point=A26351" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed58&theme=react-dark&hide_border=true&bg_color=0D1117&color=A26351&line=A26351&point=A26351" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Muhammed58&theme=dark&hide_border=true&background=0D1117&ring=A26351&fire=A26351&currStreakLabel=A26351" alt="GitHub Streak"/>
 
 </div>
 
@@ -102,6 +82,26 @@ const muhammet = {
 - 💡 **Indie Hacker** — I build, ship and scale my own products
 - 💼 **Freelancer** — Helping startups bring mobile ideas to life
 - 🎯 **Goal** — $100k/month through products & freedom
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Stripe](https://img.shields.io/badge/Stripe-20232A?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-20232A?style=for-the-badge&logo=revenuecat&logoColor=F50057)
+
+</div>
 
 ---
 
