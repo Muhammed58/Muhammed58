@@ -49,11 +49,11 @@ const muhammet = {
 
 ## 💰 Revenue Journey — Road to $100k/month
 
-<div align="center">
-
-<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Freelancing%22%2C%20%22App%20Revenue%22%2C%20%22Total%20MRR%22%2C%20%22Goal%20%F0%9F%8E%AF%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22USD%20%2F%20month%22%2C%20%22data%22%3A%20%5B14000%2C%204000%2C%2018000%2C%20100000%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23A26351%22%2C%20%22%23A26351%22%2C%20%22%23A26351%22%2C%20%22%233d2218%22%5D%2C%20%22borderColor%22%3A%20%5B%22%23A26351%22%2C%20%22%23A26351%22%2C%20%22%23A26351%22%2C%20%22%23A26351%22%5D%2C%20%22borderWidth%22%3A%202%2C%20%22borderRadius%22%3A%206%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Monthly%20Revenue%20Journey%20%E2%80%94%20Road%20to%20%24100k%2Fmonth%22%2C%20%22color%22%3A%20%22%23A26351%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2016%2C%20%22weight%22%3A%20%22bold%22%7D%7D%2C%20%22datalabels%22%3A%20%7B%22color%22%3A%20%22%23ffffff%22%2C%20%22anchor%22%3A%20%22end%22%2C%20%22align%22%3A%20%22top%22%2C%20%22font%22%3A%20%7B%22weight%22%3A%20%22bold%22%7D%2C%20%22formatter%22%3A%20%22function(v)%7B%20return%20v%3E%3D1000%20%3F%20%27%24%27%2B(v%2F1000)%2B%27k%27%20%3A%20%27%24%27%2Bv%20%7D%22%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23cccccc%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%232a2a2a%22%7D%7D%2C%20%22y%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23cccccc%22%2C%20%22callback%22%3A%20%22function(v)%7B%20return%20%27%24%27%2B(v%2F1000)%2B%27k%27%20%7D%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%232a2a2a%22%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=800&height=400" alt="Revenue Journey Chart" width="100%"/>
-
-</div>
+```
+💼 Freelancing  🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜  $14k → $20k/m
+📱 App Revenue  🟫🟫🟫🟫⬜⬜⬜⬜⬜⬜   $4k → $10k/m
+🎯 Total MRR    🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜  $18k → $100k/m
+```
 
 ---
 
