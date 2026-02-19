@@ -55,14 +55,13 @@ const muhammet = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammed58&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed58&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117&title_color=F5A623"/>
+<img src="https://streak-stats.demolab.com/?user=Muhammed58&theme=dark&hide_border=true&background=0D1117&ring=A26351&fire=A26351&currStreakLabel=A26351" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed58&theme=dark&hide_border=true&background=0D1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed58&theme=react-dark&hide_border=true&bg_color=0D1117&color=A26351&line=A26351&point=A26351" width="100%"/>
 
 </div>
 
