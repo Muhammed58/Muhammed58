@@ -36,16 +36,16 @@ const muhammet = {
 <div align="center">
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=F5A623)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=F5A623)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Stripe](https://img.shields.io/badge/Stripe-1a1a1a?style=for-the-badge&logo=stripe&logoColor=F5A623)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-F50057?style=for-the-badge&logo=revenuecat&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-20232A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Stripe](https://img.shields.io/badge/Stripe-20232A?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-20232A?style=for-the-badge&logo=revenuecat&logoColor=F50057)
 
 </div>
 
